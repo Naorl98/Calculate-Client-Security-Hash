@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome ACME Update Details",
+  "Type": "Screen",
+  "Id": "LN678rWoL0O6lCvvJZQduQ",
+  "Reference": "-KySiDiDpEOjXkWft9MlLQ/LN678rWoL0O6lCvvJZQduQ",
+  "ParentRef": "-KySiDiDpEOjXkWft9MlLQ/gYcxn53KmESYoQUuM-ymmw",
+  "Created": "2025-06-24T10:05:23.4241029Z",
+  "Updated": "2025-06-24T10:05:23.4241029Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

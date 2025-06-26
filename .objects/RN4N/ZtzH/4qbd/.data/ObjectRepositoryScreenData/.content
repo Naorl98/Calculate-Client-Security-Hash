@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="bgyuJusbfEOFXPQ3_B6aYQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1038" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAABbSURBVDhPY3h1VOw/DHOoHyEZM8A0Us0AUl2E1QBkmhAmaAAhFxFlADKNjkk2AN1FZBmATFNkAAiTbQAMk2QADJNlAC6M1wBsNqJjnAYQi1EMIMZGdAw3gFwMAAOUOX1CmNE5AAAAAElFTkSuQmCC" Selector="&lt;html app='chrome.exe' title='SHA1 online' /&gt;" Url="http://www.sha1-online.com/" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="1f9b38275bfa7ef05d64ec10d0ddfc71.jpg" xmlns="">04FWlY_mX3kKw7ApXyhhbWw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

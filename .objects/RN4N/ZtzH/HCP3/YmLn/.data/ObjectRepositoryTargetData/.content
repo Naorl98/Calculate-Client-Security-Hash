@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wMvWuam400iiP7GVPBRg4g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sha1-online.com" DesignTimeRectangle="105, 66, 43, 43" ElementType="Button" FullSelectorArgument="&lt;ctrl name='SHA1 online - Google Chrome - נאור' role='pane' /&gt;&lt;ctrl name='Reload' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='SHA1 online - Google Chrome - נאור' role='pane' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='Reload' role='push button' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Reload' /&gt;" Guid="bac7abba-7ac6-41f7-9a65-c68ab93787ac" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='SHA1 online - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="150, 66, 43, 43" ElementType="Button" FuzzySelectorArgument="&lt;ctrl name='SHA1 online - Google Chrome - נאור' role='pane' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='Home' role='push button' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Home' /&gt;" Guid="9259809d-d958-46fc-9f36-9ca443436245" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1266d5b53e4ec11e2e2cba4af5a189fb.png" xmlns="">06iaQPD4n80iFNPJI-dOWYw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

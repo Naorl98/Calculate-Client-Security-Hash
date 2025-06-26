@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome SHA1 online",
+  "Type": "Screen",
+  "Id": "4qbdJraNbk--WVBNvDWlkw",
+  "Reference": "-KySiDiDpEOjXkWft9MlLQ/4qbdJraNbk--WVBNvDWlkw",
+  "ParentRef": "-KySiDiDpEOjXkWft9MlLQ/ZtzHoJtL_kSlhmOqpKYY8w",
+  "Created": "2025-06-24T09:35:22.5608352Z",
+  "Updated": "2025-06-24T09:35:22.5608352Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

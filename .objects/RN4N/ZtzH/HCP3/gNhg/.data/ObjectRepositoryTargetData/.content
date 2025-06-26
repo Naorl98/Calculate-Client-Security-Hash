@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Wr2f504dKUqSYNwX-kX87w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sha1-online.com" DesignTimeRectangle="105, 66, 43, 43" ElementType="Button" FullSelectorArgument="&lt;ctrl name='SHA1 online - Google Chrome - נאור' role='pane' /&gt;&lt;ctrl name='Reload' role='push button' /&gt;" Guid="9884a6f4-0669-4ac8-954b-d415473045dc" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='SHA1 online - Google Chrome' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="5b19f92180f2af84587c17fec52907a1.png" xmlns="">0Y6V8owDL3E6HyBvHVsk7sA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

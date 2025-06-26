@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="sXruFXPUAkKlePTvyHg8bw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sha1-online.com" CVScreenId="48086383-f64b-4f37-bf24-14a91f3a4471" CvTextArea="799, 424, 22, 15" CvTextArgument="Ad" CvType="Text" DesignTimeRectangle="802, 416, 20, 32" ElementType="Text" FullSelectorArgument="&lt;webctrl id='aswift_2' tag='IFRAME' /&gt;&lt;webctrl parentid='heading' tag='DIV' /&gt;" Guid="efa6678d-70cb-49dc-ba05-3d33ae864cd0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SHA1 online' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="48086383-f64b-4f37-bf24-14a91f3a4471" CvElementArea="1121, 414, 31, 30" CvType="CloseButton" DesignTimeRectangle="1128, 423, 17, 17" ElementType="Icon" FullSelectorArgument="&lt;webctrl id='aswift_2' tag='IFRAME' /&gt;&lt;webctrl tag='path' /&gt;" Guid="7c222266-1d93-4d1e-b956-733722c54935" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="eb4696376681d2501f82b9c2f48b005e.png" xmlns="">0QCMrcNAKz0ySkTybViVd6w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

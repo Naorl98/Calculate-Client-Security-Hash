@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Advar doc = document.ge…",
+  "Type": "Element",
+  "Id": "nqBSD5f370qWQQ2aT-uuhw",
+  "Reference": "-KySiDiDpEOjXkWft9MlLQ/nqBSD5f370qWQQ2aT-uuhw",
+  "ParentRef": "-KySiDiDpEOjXkWft9MlLQ/HCP3WXgFsEuTDp6UBlSQHQ",
+  "Created": "2025-06-24T16:14:13.7172358Z",
+  "Updated": "2025-06-24T16:14:13.7172358Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
